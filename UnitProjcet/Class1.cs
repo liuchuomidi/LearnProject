@@ -7,7 +7,7 @@ namespace UnitProjcet
     class Class1
     {
 
-        int a;
+
         int e;
         int b;
         int d;

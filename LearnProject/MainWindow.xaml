@@ -1,0 +1,17 @@
+﻿<Window x:Class="LearnProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearnProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox Height="40" Background="LightBlue" Margin="0,10" Text="{Binding Input1}"></TextBox>
+            <TextBox Height="40" Background="LightBlue" Margin="0,10" Text="{Binding Input2}"></TextBox>
+            <TextBox Height="40" Background="LightBlue" Margin="0,10" Text="{Binding Result}"></TextBox>
+            <Button Content="add" Height="40" Width="40" Command="{Binding AddCommand}"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

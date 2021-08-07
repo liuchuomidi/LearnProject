@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMProject", "LearnProject\MVVMProject.csproj", "{E8C20B51-E13B-4F92-97BF-115241643696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVMProject", "LearnProject\MVVMProject.csproj", "{E8C20B51-E13B-4F92-97BF-115241643696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionProject", "ConsoleApp1\ReflectionProject.csproj", "{CC7AE746-37CC-4D4A-88AB-ADD9B1E1BF2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionProject", "ConsoleApp1\ReflectionProject.csproj", "{CC7AE746-37CC-4D4A-88AB-ADD9B1E1BF2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitProjcet", "UnitProjcet\UnitProjcet.csproj", "{01C1675E-260B-4B69-89F2-3775A72439A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitProjcet", "UnitProjcet\UnitProjcet.csproj", "{01C1675E-260B-4B69-89F2-3775A72439A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitProject.Test", "UnitProject.Test\UnitProject.Test.csproj", "{B20C46B0-A3EC-453D-A42E-49FE84AA3EF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitProject.Test", "UnitProject.Test\UnitProject.Test.csproj", "{B20C46B0-A3EC-453D-A42E-49FE84AA3EF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMLightProject", "D:\下载\12038230_vmzsxJjTucqawScPNxFvxkmIx\WPF\WPF\MVVMLightProject.csproj", "{D582BBA0-37C4-4185-8624-E0F334AE3F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IocContainProject", "IocContainProject\IocContainProject.csproj", "{B31C28F4-905F-4770-8A19-EB8D0B82831F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D582BBA0-37C4-4185-8624-E0F334AE3F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D582BBA0-37C4-4185-8624-E0F334AE3F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D582BBA0-37C4-4185-8624-E0F334AE3F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,10 +21,5 @@ namespace UnitProject.Test
                 return -1;
             }
         }
-        [Fact]
-        public void Test()
-        {
-            Assert.Equal("1", "2");
-        }
     }
 }

@@ -8,6 +8,7 @@ namespace UnitProjcet
     {
         int c;
         int a;
+        int e;
         int b;
         int d;
     }

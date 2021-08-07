@@ -12,5 +12,6 @@ namespace UnitProjcet
         int b;
         int d;
         int f;
+        int g;
     }
 }

@@ -11,4 +11,6 @@ namespace UnitProjcet
         int b;
         int c;
     }
+    class Class2{
+    }
 }

@@ -4,6 +4,10 @@ using System.Text;
 
 namespace UnitProjcet
 {
+    class class3
+    {
+
+    }
     class Class1
     {
         

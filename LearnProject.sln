@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitProjcet", "UnitProjcet\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitProject.Test", "UnitProject.Test\UnitProject.Test.csproj", "{B20C46B0-A3EC-453D-A42E-49FE84AA3EF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMLightProject", "D:\下载\12038230_vmzsxJjTucqawScPNxFvxkmIx\WPF\WPF\MVVMLightProject.csproj", "{D582BBA0-37C4-4185-8624-E0F334AE3F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IocContainProject", "IocContainProject\IocContainProject.csproj", "{B31C28F4-905F-4770-8A19-EB8D0B82831F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IocContainProject", "IocContainProject\IocContainProject.csproj", "{B31C28F4-905F-4770-8A19-EB8D0B82831F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMLightProject", "WPF\MVVMLightProject.csproj", "{D582BBA0-37C4-4185-8624-E0F334AE3F82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +37,10 @@ Global
 		{B20C46B0-A3EC-453D-A42E-49FE84AA3EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B20C46B0-A3EC-453D-A42E-49FE84AA3EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B20C46B0-A3EC-453D-A42E-49FE84AA3EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31C28F4-905F-4770-8A19-EB8D0B82831F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D582BBA0-37C4-4185-8624-E0F334AE3F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D582BBA0-37C4-4185-8624-E0F334AE3F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D582BBA0-37C4-4185-8624-E0F334AE3F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
